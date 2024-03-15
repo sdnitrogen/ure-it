@@ -2,7 +2,7 @@
 
 A luck based party game played between friends to select the fortunate/unfortunate one - built with Vue, TypeScript and Tailwind CSS.
 
-Check it out here: [https://better-url.vercel.app/](https://better-url.vercel.app/)
+Check it out here: [https://ure-it.vercel.app/](https://ure-it.vercel.app/)
 
 ### Features
 
