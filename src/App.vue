@@ -20,7 +20,7 @@ const board = ref([
   ["", "", "", ""],
 ])
 
-const makeMove = (x, y) => {
+const makeMove = (x: number, y: number) => {
   if (board.value[x][y] !== "") return
   gamestate.value = 1
   const roll = Math.floor(Math.random() * count.value)
